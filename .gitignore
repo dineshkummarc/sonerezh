@@ -1,32 +1,32 @@
 # CakePHP and Sonerezh ignored files
 # ----------------------------------
-/app/Config/ciphers.php
-/app/Config/database.php
-/app/Config/email.php
+!/app/Config/ciphers.php
+!/app/Config/database.php
+!/app/Config/email.php
 /app/tmp/tests
 /app/tmp/cache
 /app/tmp/logs
-/app/Vendor/
+!/app/Vendor/
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
-/vendors
+!/vendors
 /build
 /dist
 /tags
 *.mo
 
-/app/webroot/img/thumbnails/
-/app/webroot/img/resized/
-/app/webroot/img/avatars/
-/app/tmp/*.ogg
-/app/tmp/*.mp3
+!/app/webroot/img/thumbnails/
+!/app/webroot/img/resized/
+!/app/webroot/img/avatars/
+!/app/tmp/*.ogg
+!/app/tmp/*.mp3
 
 # IDE and editor specific files
 # ----------------------------------
 .idea
-/app/Config/database.php.pgsql
-/app/Config/database.php.mysql
-/app/Config/database.php.sqlite
+!/app/Config/database.php.pgsql
+!/app/Config/database.php.mysql
+!/app/Config/database.php.sqlite
 
 # OS generated files
 # ----------------------------------
